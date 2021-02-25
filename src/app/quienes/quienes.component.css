@@ -1,0 +1,22 @@
+.title h3{
+    text-align: center;
+    font-size: 50px;
+    height: 90px;
+    color: blueviolet;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.paragraph{
+    font-family:sans-serif;
+    text-align: justify;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-size: 16px;
+    background-color: rgba(255,255,255,0.82);
+}
+.paragraph .logo img{
+    height: 200px;
+    display: block;
+    float: right;
+    margin-right: 100px;
+}
